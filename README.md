@@ -5,3 +5,5 @@ Para criar um novo post, precisa se autenticar, criei uma autenticação em mem�
 
 # Login: Juncal
 # Password: 123
+
+https://blog-juncal.herokuapp.com/posts
